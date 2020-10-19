@@ -55,11 +55,12 @@ This game will be a web-based game (e.g. Windows, Mac). Mobile Cross-platform (e
 
 **FONTS**
 
-- Minicraftia
-![minecraftia](https://user-images.githubusercontent.com/72040803/96470813-b8f16700-123f-11eb-93ea-bb875fd89da3.png)
 
--  Amazdoom
-![font](https://user-images.githubusercontent.com/72040803/96470894-cf97be00-123f-11eb-815f-010b4e07805d.png)
+- Minicraftia ![minecraftia] (https://user-images.githubusercontent.com/72040803/96470813-b8f16700-123f-11eb-93ea-bb875fd89da3.png)
+
+
+-  Amazdoom ![font] (https://user-images.githubusercontent.com/72040803/96470894-cf97be00-123f-11eb-815f-010b4e07805d.png)
+
 
 **GRAPHICS**
 
@@ -73,16 +74,18 @@ Object (fly)
 
 
 BACKGROUND
-![background](https://user-images.githubusercontent.com/72040803/96471028-f3f39a80-123f-11eb-87ba-7aadedbddc80.png)
+
+![background] (https://user-images.githubusercontent.com/72040803/96471028-f3f39a80-123f-11eb-87ba-7aadedbddc80.png)
 
 
 GROUND
-![ground](https://user-images.githubusercontent.com/72040803/96471066-fc4bd580-123f-11eb-8ee7-9325e87e6e8f.png)
+
+![ground] (https://user-images.githubusercontent.com/72040803/96471066-fc4bd580-123f-11eb-8ee7-9325e87e6e8f.png)
 
 
 LIVES
-![lives](https://user-images.githubusercontent.com/72040803/96471439-66647a80-1240-11eb-9267-0e15e9dc47dc.png)![lives](https://user-images.githubusercontent.com/72040803/96471455-6c5a5b80-1240-11eb-8cca-d7f88efbf344.png)![lives](https://user-images.githubusercontent.com/72040803/96471478-711f0f80-1240-11eb-8318-39ccdf15aa03.png)
 
+![lives] (https://user-images.githubusercontent.com/72040803/96471439-66647a80-1240-11eb-9267-0e15e9dc47dc.png)![lives](https://user-images.githubusercontent.com/72040803/96471455-6c5a5b80-1240-11eb-8cca-d7f88efbf344.png)![lives](https://user-images.githubusercontent.com/72040803/96471478-711f0f80-1240-11eb-8318-39ccdf15aa03.png)
 
 Demographics
    Age: ages 12 above
